@@ -1,8 +1,8 @@
 " Encoding {
-    set fileencodings=gb2312,gbk,ucs-bom,utf-8
-    set fileencoding=gbk
-    set termencoding=gbk
-    set encoding=utf-8
+    "set fileencodings=gb2312,gbk,ucs-bom,utf-8
+    "set fileencoding=gbk
+    "set termencoding=gbk
+    "set encoding=utf-8
 " }
 
 " Plugins {
