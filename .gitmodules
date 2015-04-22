@@ -19,3 +19,6 @@
 [submodule "sources_my/vimoutliner"]
 	path = sources_my/vimoutliner
 	url = git@github.com:vimoutliner/vimoutliner.git
+[submodule "sources_my/L9"]
+	path = sources_my/L9
+	url = git@github.com:vim-scripts/L9.git
