@@ -96,6 +96,6 @@
     let g:DoxygenToolkit_briefTag_funcName = "yes"
     "let g:DoxygenToolkit_blockHeader = "----------------------------------------------------------------------------"
     "let g:DoxygenToolkit_blockFooter = "----------------------------------------------------------------------------"
-    let g:DoxygenToolkit_licenseTag = "Copyright (c) 2015 Baidu.com, Inc. All Rights Reserved"
+    "let g:DoxygenToolkit_licenseTag = "Copyright (c) 2015 Baidu.com, Inc. All Rights Reserved"
     let g:doxygen_enhanced_color = 1
 " }
