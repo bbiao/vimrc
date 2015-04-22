@@ -3,5 +3,7 @@ sources_non_forked/ack.vim/.netrwhist
 temp_dirs/yankring_history_v2.txt
 sources_forked/yankring/doc/tags
 sources_non_forked/tlib/doc/tags
-my_configs.vim
+sources_my/OmniCppComplete/doc/tags
+sources_my/vim-autocomplpop/doc/tags
+sources_my/vim-autocomplpop/doc/tags-ja
 tags
